@@ -1,3 +1,4 @@
+<img width="847" alt="第三题流程图" src="https://user-images.githubusercontent.com/87068277/125781793-d3d8b2d7-a3c1-4d14-b5c3-8b522ccd7707.png">
 # 第三题礼品码技术文档
 
 ### 1，整体框架
