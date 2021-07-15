@@ -67,5 +67,5 @@ README.md--项目技术文档
 
 ### 8，逻辑图
 
-![image-20210715183416206](/Users/fuyuanfu/Library/Application Support/typora-user-images/image-20210715183416206.png)
+
 
