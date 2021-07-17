@@ -6,7 +6,7 @@
 
 ### 2，目录结构
 
-![image-20210715170147351](/Users/fuyuanfu/Library/Application Support/typora-user-images/image-20210715170147351.png)
+![image-20210717205141721](/Users/fuyuanfu/Library/Application Support/typora-user-images/image-20210717205141721.png)
 
 Main.go  --代码入口
 
@@ -67,5 +67,5 @@ README.md--项目技术文档
 
 ### 8，逻辑图
 
-![image-20210715183416206](/Users/fuyuanfu/Library/Application Support/typora-user-images/image-20210715183416206.png)
+![image-20210715183416206](/Users/fuyuanfu/第三题流程图.png)
 
