@@ -5,7 +5,10 @@ import (
 	"testing"
 )
 
+// 单元测试
 func Test_giftcode(t *testing.T) {
+	// 赋予测试参数
+
 	cases := []struct {
 		a      string
 		expect string

@@ -9,6 +9,10 @@ func main() {
 	// 1，和redis数据库建立连接
 	//service2.Connect()
 
+	// 启动服务
 	http.Start()
+
+	// 设置奖品,想要设置奖品只需要将下面的"// service.Setstring()"前面的// 去掉，把http.Start()关掉即可在控制台输入
+	// service.Setstring()
 
 }
